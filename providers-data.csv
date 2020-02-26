@@ -3,7 +3,7 @@ acquia,acquia.com,If you are an Acquia Cloud customer and expect to see your sit
 acquia,acquia-test.com,If you are an Acquia Cloud customer and expect to see your site at this address,FALSE
 acquia,acquia.com,The site you are looking for could not be found,FALSE
 acquia,acquia-test.com,The site you are looking for could not be found,FALSE
-aftership,aftership.com,Oops.</h2><p class=\"text-muted text-tight\">The page you're looking for doesn't exist,FALSE
+aftership,aftership.com,The page you're looking for doesn't exist,FALSE
 aha,aha.io,There is no portal here ... sending you back to Aha!,FALSE
 airee,airee.ru,Ошибка 402,FALSE
 apigee,apigee.net,,FALSE
@@ -24,9 +24,9 @@ azure,trafficmanager.net,404 Web Site not found,FALSE
 azure,windows.net,404 Web Site not found,FALSE
 azure,visualstudio.com,404 Web Site not found,FALSE
 bitbucket,bitbucket.io,Repository not found,TRUE
-brightcove,bcvp0rtal.com,<p class=\"bc-gallery-error-code\">Error Code: 404</p>,FALSE
-brightcove,brightcove.com,<p class=\"bc-gallery-error-code\">Error Code: 404</p>,FALSE
-bigcartel,bigcartel.com,<h1>Oops! We could&#8217;t find that page.</h1>,FALSE
+brightcove,bcvp0rtal.com,Error Code: 404</p>,FALSE
+brightcove,brightcove.com,Error Code: 404</p>,FALSE
+bigcartel,bigcartel.com,Oops! We could't find that page,FALSE
 campaignmonitor,createsend.com,Double check the URL,FALSE
 campaignmonitor,createsend.com,Trying to access your account?,FALSE
 cargocollective,cargocollective.com,404 Not Found,FALSE
