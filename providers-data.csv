@@ -46,8 +46,8 @@ hatenablog,hatenablog.com,404 Blog is not found,FALSE
 helprace,helprace.com,Alias not configured,FALSE
 helpjuice,helpjuice.com,We could not find what you're looking for.,FALSE
 helpscout,helpscoutdocs.com,No settings were found for this company:,FALSE
-heroku,heroku,There's nothing here,TRUE
-heroku,heroku,No such app,TRUE
+heroku,heroku,,TRUE
+heroku,heroku,,TRUE
 instapage,pageserve.co,You've Discovered A Missing Link. Our Apologies!,FALSE
 intercom,intercom.io,Uh oh. That page doesn't exist.,FALSE
 intercom,intercom.io,This page is reserved for artistic dogs,FALSE
