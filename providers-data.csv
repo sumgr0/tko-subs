@@ -6,7 +6,6 @@ acquia,acquia-test.com,The site you are looking for could not be found,FALSE
 aftership,aftership.com,The page you're looking for doesn't exist,FALSE
 aha,aha.io,There is no portal here ... sending you back to Aha!,FALSE
 airee,airee.ru,Ошибка 402,FALSE
-apigee,apigee.net,,FALSE
 amazonaws,amazonaws.com,NoSuchBucket,FALSE
 amazonaws,amazonaws.com,The specified bucket does not exist,FALSE
 amazonaws,s3-website,NoSuchBucket,FALSE
@@ -45,8 +44,7 @@ hatenablog,hatenablog.com,404 Blog is not found,FALSE
 helprace,helprace.com,Alias not configured,FALSE
 helpjuice,helpjuice.com,We could not find what you're looking for.,FALSE
 helpscout,helpscoutdocs.com,No settings were found for this company:,FALSE
-heroku,heroku,,TRUE
-heroku,heroku,,TRUE
+heroku,heroku,,FALSE
 instapage,pageserve.co,You've Discovered A Missing Link. Our Apologies!,FALSE
 intercom,intercom.io,Uh oh. That page doesn't exist.,FALSE
 intercom,intercom.io,This page is reserved for artistic dogs,FALSE
